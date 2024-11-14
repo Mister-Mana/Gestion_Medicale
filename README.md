@@ -106,3 +106,5 @@ L'API inclut également une interface USSD pour permettre aux utilisateurs d'int
 
 ```bash
 curl -X POST http://votre-api/login -d "telephone=1234567890&mot_de_passe=secret&role=patient"
+
+Cette API fournit une solution complète pour la gestion des rendez-vous médicaux, intégrant l'authentification, la gestion des services, et la possibilité de prendre et d'annuler des rendez-vous. Pour toute question ou contribution, n'hésitez pas à contacter les mainteneurs du projet.
